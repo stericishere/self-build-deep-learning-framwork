@@ -3,7 +3,7 @@ from optim import SGD, Optimizer
 from data import DataIterator, BatchIterator
 from tensor import Tensor
 from typing import Tuple, Iterator
-from loss_function import Loss, MSE
+from ML.loss_function import Loss, MSE
 
 def train(net:NeuralNet, 
           inputs:Tensor, 
