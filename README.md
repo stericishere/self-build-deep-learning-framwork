@@ -18,6 +18,14 @@
 
 ---
 
+## Overview
+
+A comprehensive machine learning library built entirely from scratch using only NumPy, demonstrating fundamental ML algorithms and neural network concepts. This educational framework provides clean implementations of core deep learning components, making it perfect for understanding how popular frameworks like PyTorch and TensorFlow work internally.
+
+**Key Philosophy**: Learn by building. Every component is implemented from first principles to provide deep understanding of the mathematical foundations that power modern AI systems.
+
+---
+
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -34,14 +42,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-
----
-
-## Overview
-
-A comprehensive machine learning library built entirely from scratch using only NumPy, demonstrating fundamental ML algorithms and neural network concepts. This educational framework provides clean implementations of core deep learning components, making it perfect for understanding how popular frameworks like PyTorch and TensorFlow work internally.
-
-**Key Philosophy**: Learn by building. Every component is implemented from first principles to provide deep understanding of the mathematical foundations that power modern AI systems.
 
 ---
 
